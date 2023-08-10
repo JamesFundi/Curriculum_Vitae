@@ -1,0 +1,22 @@
+body {
+  background-color: navajowhite;
+}
+h1 {
+  font-style: normal;
+  color: green;
+}
+h3 {
+  color: blue;
+}
+
+hr {
+  background-color: none;
+  border-style:dashed;
+  border-width: 5px;
+  border-color: red;
+  width: 10%;
+  height: 0px;
+}
+img {
+  height: 100%;
+}
